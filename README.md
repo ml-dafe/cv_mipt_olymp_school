@@ -1,5 +1,9 @@
 # mipt_olimp_winter_2019
 
+## Соревнование
+https://www.kaggle.com/c/bird-airplane-mipt
+
+
 ## Tools 
 
 ### <img src='https://github.com/VlasovKirill/ml_mipt_dafe_minor/blob/master/pic/anaconda.png' height="20px" width="20px" align="top"> Вариант 1
