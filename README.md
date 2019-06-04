@@ -1,7 +1,4 @@
-# mipt_olimp_winter_2019
-
-## Соревнование
-https://www.kaggle.com/c/bird-airplane-mipt
+# mipt_olimp_2019
 
 
 ## Tools 
