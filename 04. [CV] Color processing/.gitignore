@@ -1,0 +1,27 @@
+# IDEs
+.idea
+.vscode
+
+# Python
+__pycache__
+*.pyc
+
+# Environment and data
+*.env
+jupyterhub/home
+postgres
+.ipynb_checkpoints
+
+# For develop
+temp
+Icon?
+
+# Ansbile
+*.retry
+userslist.txt.DS_Store
+
+#MacOS
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
